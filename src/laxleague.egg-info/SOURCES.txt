@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/laxleague.egg-info/PKG-INFO
+src/laxleague.egg-info/SOURCES.txt
+src/laxleague.egg-info/dependency_links.txt
+src/laxleague.egg-info/requires.txt
+src/laxleague.egg-info/top_level.txt

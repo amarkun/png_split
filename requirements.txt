@@ -1,0 +1,18 @@
+attrs==19.3.0
+certifi==2019.9.11
+importlib-metadata==1.7.0
+iniconfig==1.0.1
+-e git+git@github.com:amarkun/png_split.git@03a0f539d24fefa2c9813f4bba6a1dee84d9b9a9#egg=laxleague
+more-itertools==8.4.0
+packaging==20.4
+Pillow==7.2.0
+pipenv==2018.11.26
+pluggy==0.13.1
+py==1.9.0
+pyparsing==2.4.7
+pytest==6.0.1
+six==1.15.0
+toml==0.10.1
+virtualenv==16.7.7
+virtualenv-clone==0.5.3
+zipp==3.1.0
