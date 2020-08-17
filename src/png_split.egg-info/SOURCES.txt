@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/png_split.egg-info/PKG-INFO
+src/png_split.egg-info/SOURCES.txt
+src/png_split.egg-info/dependency_links.txt
+src/png_split.egg-info/requires.txt
+src/png_split.egg-info/top_level.txt
